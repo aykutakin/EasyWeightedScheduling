@@ -30,7 +30,7 @@ class Schedule:
 
 def main():
     schedule = Schedule({'AYDAN', 'AYKUT', 'CAN', 'CANBURAK', 'ECE', 'GIZEM', 'GOZDEGUL', 'MEHMET', 'MUGE', 'YASIN'})
-    schedule.print_schedule(10, 5)
+    schedule.print_schedule(10, 2)
 
 if __name__ == '__main__':
     main()
